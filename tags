@@ -1,0 +1,170 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/3fdf28bc/
+Face	src/comp557/a3/Face.java	/^    public Face( HalfEdge he ) {$/;"	m	class:Face
+Face	src/comp557/a3/Face.java	/^public class Face {    $/;"	c
+HEDS	src/comp557/a3/HEDS.java	/^    public HEDS( PolygonSoup soup ) {$/;"	m	class:HEDS
+HEDS	src/comp557/a3/HEDS.java	/^public class HEDS {$/;"	c
+HalfEdge	src/comp557/a3/HalfEdge.java	/^public class HalfEdge {$/;"	c
+LCii	src/comp557/a3/Vertex.java	/^    double LCii;$/;"	f	class:Vertex
+LCij	src/comp557/a3/Vertex.java	/^    double[] LCij;$/;"	f	class:Vertex
+MeshDrawHeatGeo	src/comp557/a3/MeshDrawHeatGeo.java	/^	public MeshDrawHeatGeo() {$/;"	m	class:MeshDrawHeatGeo
+MeshDrawHeatGeo	src/comp557/a3/MeshDrawHeatGeo.java	/^public class MeshDrawHeatGeo {$/;"	c
+MeshDrawPicking	src/comp557/a3/MeshDrawPicking.java	/^public class MeshDrawPicking {$/;"	c
+MeshProcessingApp	src/comp557/a3/MeshProcessingApp.java	/^    public MeshProcessingApp() {    $/;"	m	class:MeshProcessingApp
+MeshProcessingApp	src/comp557/a3/MeshProcessingApp.java	/^public class MeshProcessingApp implements SceneGraphNode, Interactor {$/;"	c
+PolygonSoup	src/comp557/a3/PolygonSoup.java	/^    public PolygonSoup(String file) {$/;"	m	class:PolygonSoup
+PolygonSoup	src/comp557/a3/PolygonSoup.java	/^public class PolygonSoup {$/;"	c
+Vertex	src/comp557/a3/Vertex.java	/^public class Vertex {$/;"	c
+angleWithNext	src/comp557/a3/HEDS.java	/^    private double angleWithNext( HalfEdge he ) {$/;"	m	class:HEDS	file:
+angle_with_next	src/comp557/a3/HalfEdge.java	/^    public double angle_with_next = -360;$/;"	f	class:HalfEdge
+area	src/comp557/a3/Face.java	/^    double area;$/;"	f	class:Face
+area	src/comp557/a3/Vertex.java	/^    double area = 0;$/;"	f	class:Vertex
+attach	src/comp557/a3/MeshProcessingApp.java	/^    public void attach(Component component) {$/;"	m	class:MeshProcessingApp
+attribColorID	src/comp557/a3/MeshDrawPicking.java	/^	private int attribColorID;$/;"	f	class:MeshDrawPicking	file:
+attribNormalID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int attribNormalID = 0;$/;"	f	class:MeshDrawHeatGeo	file:
+attribPhiID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int attribPhiID = 0;$/;"	f	class:MeshDrawHeatGeo	file:
+attribUtID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int attribUtID = 0;$/;"	f	class:MeshDrawHeatGeo	file:
+attribVertexID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int attribVertexID = 0;$/;"	f	class:MeshDrawHeatGeo	file:
+attribVertexID	src/comp557/a3/MeshDrawPicking.java	/^	private int attribVertexID;$/;"	f	class:MeshDrawPicking	file:
+c	src/comp557/a3/Face.java	/^    Point3d c = new Point3d();$/;"	f	class:Face
+centerVertices	src/comp557/a3/PolygonSoup.java	/^    private double[] centerVertices(){$/;"	m	class:PolygonSoup	file:
+checkNewMax	src/comp557/a3/PolygonSoup.java	/^    private void checkNewMax(double coord, double[] bound){$/;"	m	class:PolygonSoup	file:
+clickPoint	src/comp557/a3/MeshProcessingApp.java	/^    private Point clickPoint = new Point();$/;"	f	class:MeshProcessingApp	file:
+comp557.a3	src/comp557/a3/Face.java	/^package comp557.a3;$/;"	p
+comp557.a3	src/comp557/a3/HEDS.java	/^package comp557.a3;$/;"	p
+comp557.a3	src/comp557/a3/HalfEdge.java	/^package comp557.a3;$/;"	p
+comp557.a3	src/comp557/a3/MeshDrawHeatGeo.java	/^package comp557.a3;$/;"	p
+comp557.a3	src/comp557/a3/MeshDrawPicking.java	/^package comp557.a3;$/;"	p
+comp557.a3	src/comp557/a3/MeshProcessingApp.java	/^package comp557.a3;$/;"	p
+comp557.a3	src/comp557/a3/PolygonSoup.java	/^package comp557.a3;$/;"	p
+comp557.a3	src/comp557/a3/Vertex.java	/^package comp557.a3;$/;"	p
+computeCenter	src/comp557/a3/Face.java	/^    public void computeCenter() {$/;"	m	class:Face
+computeLaplacian	src/comp557/a3/HEDS.java	/^    public void computeLaplacian() {$/;"	m	class:HEDS
+computeNormal	src/comp557/a3/Face.java	/^    public void computeNormal() {$/;"	m	class:Face
+computeVertexNormals	src/comp557/a3/HEDS.java	/^    private void computeVertexNormals() {$/;"	m	class:HEDS	file:
+constrained	src/comp557/a3/Vertex.java	/^    boolean constrained = false;$/;"	f	class:Vertex
+createHalfEdge	src/comp557/a3/HEDS.java	/^    private HalfEdge createHalfEdge( PolygonSoup soup, int i, int j ) throws Exception {$/;"	m	class:HEDS	file:
+cullFace	src/comp557/a3/MeshProcessingApp.java	/^    private BooleanParameter cullFace = new BooleanParameter( "cull face", true );    $/;"	f	class:MeshProcessingApp	file:
+currentHE	src/comp557/a3/MeshProcessingApp.java	/^    private HalfEdge currentHE;$/;"	f	class:MeshProcessingApp	file:
+display	src/comp557/a3/HEDS.java	/^    public void display( GLAutoDrawable drawable ) {$/;"	m	class:HEDS
+display	src/comp557/a3/HalfEdge.java	/^    public void display(GLAutoDrawable drawable) {$/;"	m	class:HalfEdge
+display	src/comp557/a3/MeshProcessingApp.java	/^    public void display(GLAutoDrawable drawable) {$/;"	m	class:MeshProcessingApp
+display	src/comp557/a3/PolygonSoup.java	/^    public void display(GLAutoDrawable drawable) {$/;"	m	class:PolygonSoup
+divX	src/comp557/a3/Vertex.java	/^    double divX = 0;$/;"	f	class:Vertex
+drawGrad	src/comp557/a3/MeshDrawHeatGeo.java	/^    private BooleanParameter drawGrad = new BooleanParameter( "draw grad u", false );$/;"	f	class:MeshDrawHeatGeo	file:
+drawGrad	src/comp557/a3/MeshDrawHeatGeo.java	/^    public void drawGrad( GL2 gl ) {$/;"	m	class:MeshDrawHeatGeo
+drawGradu	src/comp557/a3/Face.java	/^    public void drawGradu( GL2 gl, double h, double s ) {$/;"	m	class:Face
+drawHEDSMesh	src/comp557/a3/MeshProcessingApp.java	/^    private BooleanParameter drawHEDSMesh = new BooleanParameter( "draw HEDS mesh", true );  $/;"	f	class:MeshProcessingApp	file:
+drawHalfEdge	src/comp557/a3/MeshProcessingApp.java	/^    private BooleanParameter drawHalfEdge = new BooleanParameter( "draw test half edge", true );$/;"	f	class:MeshProcessingApp	file:
+drawPicking	src/comp557/a3/MeshProcessingApp.java	/^    private BooleanParameter drawPicking = new BooleanParameter( "draw picking" , false );$/;"	f	class:MeshProcessingApp	file:
+drawPolySoup	src/comp557/a3/MeshProcessingApp.java	/^    private BooleanParameter drawPolySoup = new BooleanParameter( "draw poly soup mesh", false )/;"	f	class:MeshProcessingApp	file:
+drawVBOs	src/comp557/a3/MeshDrawHeatGeo.java	/^    public void drawVBOs( GL2 gl ) {$/;"	m	class:MeshDrawHeatGeo
+dvdBuffer	src/comp557/a3/MeshDrawHeatGeo.java	/^    private FloatBuffer dvdBuffer;$/;"	f	class:MeshDrawHeatGeo	file:
+dvdStrideBytes	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int dvdStrideBytes;$/;"	f	class:MeshDrawHeatGeo	file:
+dvdVBOID	src/comp557/a3/MeshDrawHeatGeo.java	/^    private int dvdVBOID;$/;"	f	class:MeshDrawHeatGeo	file:
+faceDivergence	src/comp557/a3/HEDS.java	/^        private double faceDivergence(Vector3d gradu, Vector3d end1, Vector3d end2, double theta/;"	m	class:HEDS	file:
+faceList	src/comp557/a3/PolygonSoup.java	/^    public ArrayList<int[]> faceList = new ArrayList<int[]>();$/;"	f	class:PolygonSoup
+faceSidesHistogram	src/comp557/a3/PolygonSoup.java	/^    private TreeMap<Integer,Integer> faceSidesHistogram = new TreeMap<Integer,Integer>();$/;"	f	class:PolygonSoup	file:
+faces	src/comp557/a3/HEDS.java	/^    ArrayList<Face> faces = new ArrayList<Face>();$/;"	f	class:HEDS
+faces_per_vertex	src/comp557/a3/HEDS.java	/^    Map<Integer,List<Integer>> faces_per_vertex = new TreeMap<Integer,List<Integer>>();$/;"	f	class:HEDS
+fillDynamicVBO	src/comp557/a3/MeshDrawHeatGeo.java	/^	public void fillDynamicVBO() {$/;"	m	class:MeshDrawHeatGeo
+fillPickingBuffers	src/comp557/a3/MeshDrawPicking.java	/^    public void fillPickingBuffers( ) {$/;"	m	class:MeshDrawPicking
+fillStaticVBOs	src/comp557/a3/MeshDrawHeatGeo.java	/^    public void fillStaticVBOs() {$/;"	m	class:MeshDrawHeatGeo
+getControls	src/comp557/a3/MeshDrawHeatGeo.java	/^    JPanel getControls() {$/;"	m	class:MeshDrawHeatGeo
+getControls	src/comp557/a3/MeshProcessingApp.java	/^    public JPanel getControls() {$/;"	m	class:MeshProcessingApp
+getMiddlePoint	src/comp557/a3/PolygonSoup.java	/^    private double[] getMiddlePoint(double[] x_bound, double[] y_bound, double[] z_bound){$/;"	m	class:PolygonSoup	file:
+getVecToHead	src/comp557/a3/HalfEdge.java	/^    public Object getVecToHead(){$/;"	m	class:HalfEdge
+gradHeight	src/comp557/a3/MeshDrawHeatGeo.java	/^    private DoubleParameter gradHeight = new DoubleParameter( "grad u viz offset", 0.1, 1e-3, 1e/;"	f	class:MeshDrawHeatGeo	file:
+gradScale	src/comp557/a3/MeshDrawHeatGeo.java	/^    private DoubleParameter gradScale = new DoubleParameter( "grad u viz scale", 5e-2, 1e-3, 1e3/;"	f	class:MeshDrawHeatGeo	file:
+gradu	src/comp557/a3/Face.java	/^    Vector3d gradu = new Vector3d();$/;"	f	class:Face
+halfEdges	src/comp557/a3/HEDS.java	/^    Map<String,HalfEdge> halfEdges = new TreeMap<String,HalfEdge>();$/;"	f	class:HEDS
+he	src/comp557/a3/Face.java	/^    HalfEdge he;$/;"	f	class:Face
+he	src/comp557/a3/Vertex.java	/^    public HalfEdge he;$/;"	f	class:Vertex
+head	src/comp557/a3/HalfEdge.java	/^    public Vertex head;$/;"	f	class:HalfEdge
+heds	src/comp557/a3/MeshDrawHeatGeo.java	/^	private HEDS heds;$/;"	f	class:MeshDrawHeatGeo	file:
+heds	src/comp557/a3/MeshDrawPicking.java	/^	private HEDS heds;$/;"	f	class:MeshDrawPicking	file:
+heds	src/comp557/a3/MeshProcessingApp.java	/^    private HEDS heds;$/;"	f	class:MeshProcessingApp	file:
+index	src/comp557/a3/Vertex.java	/^	public int index;$/;"	f	class:Vertex
+indexBuffer	src/comp557/a3/MeshDrawHeatGeo.java	/^	private IntBuffer indexBuffer;$/;"	f	class:MeshDrawHeatGeo	file:
+indexVBOID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int indexVBOID;$/;"	f	class:MeshDrawHeatGeo	file:
+init	src/comp557/a3/MeshDrawHeatGeo.java	/^	public void init( GL2 gl ) {$/;"	m	class:MeshDrawHeatGeo
+init	src/comp557/a3/MeshDrawPicking.java	/^	public void init( GL2 gl ) {$/;"	m	class:MeshDrawPicking
+init	src/comp557/a3/MeshProcessingApp.java	/^    public void init(GLAutoDrawable drawable) {$/;"	m	class:MeshProcessingApp
+leftFace	src/comp557/a3/HalfEdge.java	/^	public Face leftFace;$/;"	f	class:HalfEdge
+loadMesh	src/comp557/a3/MeshProcessingApp.java	/^    private void loadMesh( String filename ) {          $/;"	m	class:MeshProcessingApp	file:
+main	src/comp557/a3/MeshProcessingApp.java	/^    public static void main(String[] args) {$/;"	m	class:MeshProcessingApp
+makeBoundingBox	src/comp557/a3/PolygonSoup.java	/^    private void makeBoundingBox(){$/;"	m	class:PolygonSoup	file:
+maxPhi	src/comp557/a3/MeshDrawHeatGeo.java	/^	public static float maxPhi;$/;"	f	class:MeshDrawHeatGeo
+maxphi	src/comp557/a3/HEDS.java	/^    double maxphi = 0 ;$/;"	f	class:HEDS
+meshDraw	src/comp557/a3/MeshProcessingApp.java	/^	MeshDrawHeatGeo meshDraw = new MeshDrawHeatGeo();$/;"	f	class:MeshProcessingApp
+meshPicking	src/comp557/a3/MeshProcessingApp.java	/^	MeshDrawPicking meshPicking = new MeshDrawPicking();$/;"	f	class:MeshProcessingApp
+n	src/comp557/a3/Face.java	/^    public Vector3d n = new Vector3d();$/;"	f	class:Face
+n	src/comp557/a3/Vertex.java	/^    public Vector3d n;$/;"	f	class:Vertex
+nFaces	src/comp557/a3/MeshDrawPicking.java	/^	private int nFaces;	$/;"	f	class:MeshDrawPicking	file:
+newMeshLoaded	src/comp557/a3/MeshProcessingApp.java	/^    boolean newMeshLoaded = false;$/;"	f	class:MeshProcessingApp
+newVertInMiddleFace	src/comp557/a3/HEDS.java	/^    private Vertex newVertInMiddleFace(int[] og_face) {$/;"	m	class:HEDS	file:
+next	src/comp557/a3/HalfEdge.java	/^    public HalfEdge next;$/;"	f	class:HalfEdge
+p	src/comp557/a3/Vertex.java	/^	public Point3d p = new Point3d();$/;"	f	class:Vertex
+parseFace	src/comp557/a3/PolygonSoup.java	/^    private int[] parseFace(String newline) {$/;"	m	class:PolygonSoup	file:
+parseVertex	src/comp557/a3/PolygonSoup.java	/^    private Vertex parseVertex(String newline) {        $/;"	m	class:PolygonSoup	file:
+phi	src/comp557/a3/Vertex.java	/^    double phi = 0;$/;"	f	class:Vertex
+pickTriangles	src/comp557/a3/MeshDrawPicking.java	/^    public Face pickTriangles( GLAutoDrawable drawable, Point p, Vector3d BCC ) {$/;"	m	class:MeshDrawPicking
+pickingFaceIDBOID	src/comp557/a3/MeshDrawPicking.java	/^	private int pickingFaceIDBOID;$/;"	f	class:MeshDrawPicking	file:
+pickingFaceIDBOStrideBytes	src/comp557/a3/MeshDrawPicking.java	/^	private int pickingFaceIDBOStrideBytes;$/;"	f	class:MeshDrawPicking	file:
+pickingFaceIDBuffer	src/comp557/a3/MeshDrawPicking.java	/^	private ByteBuffer pickingFaceIDBuffer;	$/;"	f	class:MeshDrawPicking	file:
+pickingTriangleIndexBOID	src/comp557/a3/MeshDrawPicking.java	/^	private int pickingTriangleIndexBOID;$/;"	f	class:MeshDrawPicking	file:
+pickingTriangleIndexBuffer	src/comp557/a3/MeshDrawPicking.java	/^	private IntBuffer pickingTriangleIndexBuffer;$/;"	f	class:MeshDrawPicking	file:
+pickingVertexB	src/comp557/a3/MeshDrawPicking.java	/^	private FloatBuffer pickingVertexB;$/;"	f	class:MeshDrawPicking	file:
+pickingVertexBOID	src/comp557/a3/MeshDrawPicking.java	/^	private int pickingVertexBOID;$/;"	f	class:MeshDrawPicking	file:
+pickingVertexBOStrideBytes	src/comp557/a3/MeshDrawPicking.java	/^	private int pickingVertexBOStrideBytes;$/;"	f	class:MeshDrawPicking	file:
+power	src/comp557/a3/MeshDrawHeatGeo.java	/^    private DoubleParameter power = new DoubleParameter( "power for visualizing heat", 1, 1e-3, /;"	f	class:MeshDrawHeatGeo	file:
+prev	src/comp557/a3/HalfEdge.java	/^    public HalfEdge prev() {$/;"	m	class:HalfEdge
+pvdBuffer	src/comp557/a3/MeshDrawHeatGeo.java	/^    private FloatBuffer pvdBuffer;$/;"	f	class:MeshDrawHeatGeo	file:
+pvdCount	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int pvdCount;$/;"	f	class:MeshDrawHeatGeo	file:
+pvdStrideBytes	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int pvdStrideBytes;$/;"	f	class:MeshDrawHeatGeo	file:
+pvdVBOID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int pvdVBOID;$/;"	f	class:MeshDrawHeatGeo	file:
+resetHeatAndDistanceSolution	src/comp557/a3/HEDS.java	/^    public void resetHeatAndDistanceSolution() {$/;"	m	class:HEDS
+resetSolutions	src/comp557/a3/MeshProcessingApp.java	/^    boolean resetSolutions = false;$/;"	f	class:MeshProcessingApp
+scale	src/comp557/a3/MeshDrawHeatGeo.java	/^    private DoubleParameter scale = new DoubleParameter( "scale distance solution values", 0.1, /;"	f	class:MeshDrawHeatGeo	file:
+selectRequest	src/comp557/a3/MeshProcessingApp.java	/^    private boolean selectRequest = false;$/;"	f	class:MeshProcessingApp	file:
+setMaxPhiUniform	src/comp557/a3/MeshDrawHeatGeo.java	/^	public static void setMaxPhiUniform(double maximumPhi) {$/;"	m	class:MeshDrawHeatGeo
+setMesh	src/comp557/a3/MeshDrawHeatGeo.java	/^	public void setMesh( GL2 gl, HEDS heds ) {$/;"	m	class:MeshDrawHeatGeo
+setMesh	src/comp557/a3/MeshDrawPicking.java	/^	public void setMesh( GL2 gl, HEDS heds ) {$/;"	m	class:MeshDrawPicking
+shininess	src/comp557/a3/MeshDrawHeatGeo.java	/^    private IntParameter shininess = new IntParameter( "shininess", 255, 1, 255 );$/;"	f	class:MeshDrawHeatGeo	file:
+solveDistanceStep	src/comp557/a3/HEDS.java	/^    public void solveDistanceStep( int GSSteps ) {		$/;"	m	class:HEDS
+solveHeatFlowStep	src/comp557/a3/HEDS.java	/^    public void solveHeatFlowStep( int GSSteps, double t ) {    	$/;"	m	class:HEDS
+soup	src/comp557/a3/MeshProcessingApp.java	/^    private PolygonSoup soup;$/;"	f	class:MeshProcessingApp	file:
+soupFiles	src/comp557/a3/MeshProcessingApp.java	/^    private String[] soupFiles = {$/;"	f	class:MeshProcessingApp	file:
+soupStatistics	src/comp557/a3/PolygonSoup.java	/^    public String soupStatistics;$/;"	f	class:PolygonSoup
+state	src/comp557/a3/MeshDrawHeatGeo.java	/^	private ShaderState state = new ShaderState();$/;"	f	class:MeshDrawHeatGeo	file:
+state	src/comp557/a3/MeshDrawPicking.java	/^	private ShaderState state = new ShaderState();$/;"	f	class:MeshDrawPicking	file:
+steps	src/comp557/a3/MeshProcessingApp.java	/^    private IntParameter steps = new IntParameter( "GS Steps", 10, 1, 100 );$/;"	f	class:MeshProcessingApp	file:
+tSol	src/comp557/a3/MeshProcessingApp.java	/^    private DoubleParameter tSol = new DoubleParameter( "time for solution", 1e-3, 1e-3, 1e3 );$/;"	f	class:MeshProcessingApp	file:
+triangulate	src/comp557/a3/HEDS.java	/^    private void triangulate(ArrayList<int[]> new_list, ArrayList<int[]> old_list){$/;"	m	class:HEDS	file:
+twin	src/comp557/a3/HalfEdge.java	/^    public HalfEdge twin;$/;"	f	class:HalfEdge
+u0	src/comp557/a3/Vertex.java	/^    double u0 = 0;$/;"	f	class:Vertex
+uLightColorID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int uLightColorID;$/;"	f	class:MeshDrawHeatGeo	file:
+uLightPosID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int uLightPosID;$/;"	f	class:MeshDrawHeatGeo	file:
+uMaterialDiffuseID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int uMaterialDiffuseID;$/;"	f	class:MeshDrawHeatGeo	file:
+uModelviewID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int uModelviewID;		$/;"	f	class:MeshDrawHeatGeo	file:
+uModelviewID	src/comp557/a3/MeshDrawPicking.java	/^	private int uModelviewID;$/;"	f	class:MeshDrawPicking	file:
+uPowerID	src/comp557/a3/MeshDrawHeatGeo.java	/^    private int uPowerID;$/;"	f	class:MeshDrawHeatGeo	file:
+uProjectionID	src/comp557/a3/MeshDrawHeatGeo.java	/^	private int uProjectionID;$/;"	f	class:MeshDrawHeatGeo	file:
+uProjectionID	src/comp557/a3/MeshDrawPicking.java	/^	private int uProjectionID;$/;"	f	class:MeshDrawPicking	file:
+uShininessID	src/comp557/a3/MeshDrawHeatGeo.java	/^    private int uShininessID;$/;"	f	class:MeshDrawHeatGeo	file:
+umaximumPhi	src/comp557/a3/MeshDrawHeatGeo.java	/^    private int umaximumPhi;$/;"	f	class:MeshDrawHeatGeo	file:
+updateDivx	src/comp557/a3/HEDS.java	/^    public void updateDivx() {$/;"	m	class:HEDS
+updateGradu	src/comp557/a3/HEDS.java	/^    public void updateGradu() {$/;"	m	class:HEDS
+useGLSL	src/comp557/a3/MeshProcessingApp.java	/^    private BooleanParameter useGLSL = new BooleanParameter( "use GLSL", true );$/;"	f	class:MeshProcessingApp	file:
+ut	src/comp557/a3/Vertex.java	/^    double ut = 0;$/;"	f	class:Vertex
+valence	src/comp557/a3/Vertex.java	/^    public int valence() {$/;"	m	class:Vertex
+vec_to_head	src/comp557/a3/HalfEdge.java	/^    private Vector3d vec_to_head;$/;"	f	class:HalfEdge	file:
+vertexList	src/comp557/a3/PolygonSoup.java	/^    public ArrayList<Vertex> vertexList = new ArrayList<Vertex>();$/;"	f	class:PolygonSoup
+vertices	src/comp557/a3/HEDS.java	/^    ArrayList<Vertex> vertices;$/;"	f	class:HEDS
+whichSoup	src/comp557/a3/MeshProcessingApp.java	/^    private int whichSoup = 0;$/;"	f	class:MeshProcessingApp	file:
+wireFrame	src/comp557/a3/MeshProcessingApp.java	/^    private BooleanParameter wireFrame = new BooleanParameter( "wire frame", false );$/;"	f	class:MeshProcessingApp	file:
